@@ -91,7 +91,3 @@ Instructor: Scott Reckinger
 University of Illinois Chicago (UIC)
 
 ---
-
-## 📄 License
-
-This project is open-source under the MIT License. See [LICENSE](./LICENSE) for details.
